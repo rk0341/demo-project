@@ -2,3 +2,4 @@ learning git
 paython
 ansible
 grove skipt
+fr
